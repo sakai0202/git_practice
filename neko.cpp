@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
 
-    cout << "neko" << endl;
+    cout << "nya" << endl;
 
     cout << "sample delete is excuting after this is writed" << endl;
 
