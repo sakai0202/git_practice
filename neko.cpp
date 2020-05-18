@@ -11,5 +11,7 @@ int main() {
     
     cout << "nyanya" << endl;
 
+    cout << "sakai is merging to master" << endl;
+
     return 0;
 }
